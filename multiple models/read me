@@ -1,0 +1,10 @@
+Applied Multiple algorithms for classifying the target variable
+Logistic Regression 
+Decision Tree
+Random Forest
+ADA Boost
+Gradient Descent
+XG Boost
+Cross-Validation using k - folds
+Hyperparameter tuning using GridSearchCv
+
